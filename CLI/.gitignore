@@ -1,0 +1,40 @@
+#Gitignore file for CLI project
+# Gitignore file for C# console project
+# Ignore build output
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore Resharper files
+_ReSharper*/
+
+# Ignore build artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.bak
+*.swp
+*.tmp
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.lzma
+*.tar.lzo
+*.tar.zst
+*.tar.lz4
+*.tar.lz
+*.tar
